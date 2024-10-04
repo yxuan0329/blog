@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://yxuan0329.github.io/blog/</link>
+    <description>Recent content on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://yxuan0329.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yxuan0329.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 09:31:25 +0800</lastBuildDate>
+    <atom:link href="https://yxuan0329.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://yxuan0329.github.io/blog/first/</link>
+      <pubDate>Fri, 04 Oct 2024 09:31:25 +0800</pubDate>
+      <guid>https://yxuan0329.github.io/blog/first/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;My 1st post&amp;rdquo;
+date: 2020-09-15T11:30:03+00:00&lt;/p&gt;
+&lt;h1 id=&#34;weight-1&#34;&gt;weight: 1&lt;/h1&gt;
+&lt;h1 id=&#34;aliases-first&#34;&gt;aliases: [&amp;quot;/first&amp;quot;]&lt;/h1&gt;
+&lt;p&gt;tags: [&amp;ldquo;first&amp;rdquo;]
+author: &amp;ldquo;Me&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;author-me-you--multiple-authors&#34;&gt;author: [&amp;ldquo;Me&amp;rdquo;, &amp;ldquo;You&amp;rdquo;] # multiple authors&lt;/h1&gt;
+&lt;h2 id=&#34;appendfilepath-true--to-append-file-path-to-edit-link&#34;&gt;showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: &amp;ldquo;Desc Text.&amp;rdquo;
+canonicalURL: &amp;ldquo;&lt;a href=&#34;https://canonical.url/to/page%22&#34;&gt;https://canonical.url/to/page&amp;quot;&lt;/a&gt;
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+image: &amp;ldquo;&amp;lt;image path/url&amp;gt;&amp;rdquo; # image path/url
+alt: &amp;ldquo;&lt;!-- raw HTML omitted --&gt;&amp;rdquo; # alt text
+caption: &amp;ldquo;&lt;!-- raw HTML omitted --&gt;&amp;rdquo; # display caption under cover
+relative: false # when using page bundles set this to true
+hidden: true # only hide on current single page
+editPost:
+URL: &amp;ldquo;&lt;a href=&#34;https://github.com/&#34;&gt;https://github.com/&lt;/a&gt;&amp;lt;path_to_repo&amp;gt;/content&amp;rdquo;
+Text: &amp;ldquo;Suggest Changes&amp;rdquo; # edit text
+appendFilePath: true # to append file path to Edit link&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
